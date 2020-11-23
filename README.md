@@ -6,8 +6,10 @@ Execute everything to start:
 ```
 ./start-jenkins-gitlab-sshhost.sh
 ```
-One piece is missing from codee, which is key pair of SSH Server, will uopdate soon
+One piece is missing from code, which is key pair of SSH Server, will update soon
 
-Login Using:
-Username: root
-Password: Demo123@
+Login Using:   
+```
+Username: root      
+Password: Demo123@         
+```
